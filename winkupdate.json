@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Wink",
+    "packageName": "com.meitu.wink",
+    "versionCode": 31506,
+    "updateUrl": "https://t.me/sreditingzoneoffical",
+    "title": "Update Required v3.15.5 💎",
+    "description": "We have released a brand new update for Wink with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2030-12-31",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
